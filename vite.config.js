@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: '/CaixaFacil-Site'
+  base: '/CaixaFacil-Site/'
 })
